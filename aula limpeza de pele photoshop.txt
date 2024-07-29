@@ -1,0 +1,22 @@
+Contraste, tiramos no inicio, e aplica no final
+ajustes bem sutis slides.
+exposição correta, adiciona pouca luz, HL, Shadown e Black (preto)
+remoção do contraste será feita uma avaliação.
+
+este inicio pode ser feito no camera RAW
+
+Agora vamos trablahar dentro do Photoshop
+Preparar a pele para receber as técnicas
+
+1. etapa - limpeza a pele
+2. cabelo (se tiver), remoção e pequenos fios no rosto
+
+a. cria uma layer transparente e renomeia para limpeza
+b. seleciona o bandeide J
+c. setar em current & below
+d. usar ligthen quando queremos clarear uma área 
+e. usar darkenen para escurecer uma área
+f. modo normal para copiar uma área
+g. deixar sempre menor do que o tamanho do problema
+h. segura o alt, clica, arrasta o pincel no lugar a ser copiado.
+i. 
